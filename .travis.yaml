@@ -4,3 +4,4 @@ rvm:
  - jruby
   - create
   - delete
+  - update
